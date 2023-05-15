@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/background2.jpg</file>
+        <file>res/bomb-1.png</file>
+        <file>res/bomb-2.png</file>
+        <file>res/bomb-3.png</file>
+        <file>res/bullet.png</file>
+        <file>res/enemy.png</file>
+        <file>res/logo.png</file>
+        <file>res/OIP-C (1).jpg</file>
+        <file>res/OIP-C.jpg</file>
+        <file>res/p1.jpg</file>
+        <file>res/p2.jpg</file>
+        <file>res/p3.jpg</file>
+        <file>res/p3.png</file>
+        <file>res/zidan .jpg</file>
+        <file>res/enemy2.png</file>
+        <file>res/Bgm(min).wav</file>
+        <file>res/bgm2(min).wav</file>
+        <file>res/bossF.png</file>
+        <file>res/enemy3.png</file>
+        <file>res/background3.jpg</file>
+    </qresource>
+</RCC>
